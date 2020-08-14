@@ -1,0 +1,14 @@
+{
+  "name": "projeto-tech-challenge",
+  "version": "1.0.0",
+  "description": "Projeto de integração entre o Node.js e o Telegram para facilitar comunicação entre clientes e o grupo Carrefour.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paulo Roberto J. Rodrigues",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.50.0"
+  }
+}
