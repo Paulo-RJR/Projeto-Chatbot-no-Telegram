@@ -4,7 +4,7 @@
 produtos de higiene, limpeza, comida etc. <br>
 - Como mostrado abaixo:
 
-![](https://github.com/Paulo-RJR/Projeto-Tech-Challenge/blob/master/img/testetelegram.png)
+![](https://github.com/Paulo-RJR/Projeto-Chatbot-no-Telegram/blob/master/img/testetelegram.png)
 
 
 ## Técnologias utilizadas:
@@ -18,13 +18,13 @@ produtos de higiene, limpeza, comida etc. <br>
 - <b>Telegram:</b> utilizado na construção do Chat Bot.
 
 
-![](https://github.com/Paulo-RJR/Projeto-Tech-Challenge/blob/master/img/logo-brackets.jpg)
-![](https://github.com/Paulo-RJR/Projeto-Tech-Challenge/blob/master/img/logo%20git-bash.png)
-![](https://github.com/Paulo-RJR/Projeto-Tech-Challenge/blob/master/img/logo-js.png)
-![](https://github.com/Paulo-RJR/Projeto-Tech-Challenge/blob/master/img/logo-meditor.png)<br>
-![](https://github.com/Paulo-RJR/Projeto-Tech-Challenge/blob/master/img/logo-npm.jpg)
-![](https://github.com/Paulo-RJR/Projeto-Tech-Challenge/blob/master/img/logo-nodejs.png)
-![](https://github.com/Paulo-RJR/Projeto-Tech-Challenge/blob/master/img/logo-teegram.png)
+![](https://github.com/Paulo-RJR/Projeto-Chatbot-no-Telegram/blob/master/img/logo-brackets.jpg)
+![](https://github.com/Paulo-RJR/Projeto-Chatbot-no-Telegram/blob/master/img/logo%20git-bash.png)
+![](https://github.com/Paulo-RJR/Projeto-Chatbot-no-Telegram/blob/master/img/logo-js.png)
+![](https://github.com/Paulo-RJR/Projeto-Chatbot-no-Telegram/blob/master/img/logo-meditor.png)<br>
+![](https://github.com/Paulo-RJR/Projeto-Chatbot-no-Telegram/blob/master/img/logo-npm.jpg)
+![](https://github.com/Paulo-RJR/Projeto-Chatbot-no-Telegram/blob/master/img/logo-nodejs.png)
+![](https://github.com/Paulo-RJR/Projeto-Chatbot-no-Telegram/blob/master/img/logo-teegram.png)
 
 ## Fontes de Pesquisa:
 
